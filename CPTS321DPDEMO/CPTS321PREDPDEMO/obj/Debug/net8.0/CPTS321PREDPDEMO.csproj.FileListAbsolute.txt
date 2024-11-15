@@ -1,0 +1,15 @@
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\bin\Debug\net8.0\CPTS321PREDPDEMO.exe
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\bin\Debug\net8.0\CPTS321PREDPDEMO.deps.json
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\bin\Debug\net8.0\CPTS321PREDPDEMO.runtimeconfig.json
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\bin\Debug\net8.0\CPTS321PREDPDEMO.dll
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\bin\Debug\net8.0\CPTS321PREDPDEMO.pdb
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\obj\Debug\net8.0\CPTS321PREDPDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\obj\Debug\net8.0\CPTS321PREDPDEMO.AssemblyInfoInputs.cache
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\obj\Debug\net8.0\CPTS321PREDPDEMO.AssemblyInfo.cs
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\obj\Debug\net8.0\CPTS321PREDPDEMO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\obj\Debug\net8.0\CPTS321PREDPDEMO.sourcelink.json
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\obj\Debug\net8.0\CPTS321PREDPDEMO.dll
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\obj\Debug\net8.0\refint\CPTS321PREDPDEMO.dll
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\obj\Debug\net8.0\CPTS321PREDPDEMO.pdb
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\obj\Debug\net8.0\CPTS321PREDPDEMO.genruntimeconfig.cache
+C:\Users\Administrator\321_Design_Patterns_Demo\CPTS321DPDEMO\CPTS321PREDPDEMO\obj\Debug\net8.0\ref\CPTS321PREDPDEMO.dll

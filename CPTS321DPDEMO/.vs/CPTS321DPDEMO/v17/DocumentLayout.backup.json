@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0975B861-8F9F-4344-A66B-C05D60A93DAB}|CPTS321PREDPDEMO\\CPTS321PREDPDEMO.csproj|c:\\users\\administrator\\321_design_patterns_demo\\cpts321dpdemo\\cpts321predpdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0975B861-8F9F-4344-A66B-C05D60A93DAB}|CPTS321PREDPDEMO\\CPTS321PREDPDEMO.csproj|solutionrelative:cpts321predpdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF86F17B-8E10-44BB-961E-575D30D65803}|CPTS321DPDEMO\\CPTS321DPDEMO.csproj|c:\\users\\administrator\\321_design_patterns_demo\\cpts321dpdemo\\cpts321dpdemo\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF86F17B-8E10-44BB-961E-575D30D65803}|CPTS321DPDEMO\\CPTS321DPDEMO.csproj|solutionrelative:cpts321dpdemo\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF86F17B-8E10-44BB-961E-575D30D65803}|CPTS321DPDEMO\\CPTS321DPDEMO.csproj|c:\\users\\administrator\\321_design_patterns_demo\\cpts321dpdemo\\cpts321dpdemo\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF86F17B-8E10-44BB-961E-575D30D65803}|CPTS321DPDEMO\\CPTS321DPDEMO.csproj|solutionrelative:cpts321dpdemo\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF86F17B-8E10-44BB-961E-575D30D65803}|CPTS321DPDEMO\\CPTS321DPDEMO.csproj|c:\\users\\administrator\\321_design_patterns_demo\\cpts321dpdemo\\cpts321dpdemo\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF86F17B-8E10-44BB-961E-575D30D65803}|CPTS321DPDEMO\\CPTS321DPDEMO.csproj|solutionrelative:cpts321dpdemo\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF86F17B-8E10-44BB-961E-575D30D65803}|CPTS321DPDEMO\\CPTS321DPDEMO.csproj|c:\\users\\administrator\\321_design_patterns_demo\\cpts321dpdemo\\cpts321dpdemo\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF86F17B-8E10-44BB-961E-575D30D65803}|CPTS321DPDEMO\\CPTS321DPDEMO.csproj|solutionrelative:cpts321dpdemo\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF86F17B-8E10-44BB-961E-575D30D65803}|CPTS321DPDEMO\\CPTS321DPDEMO.csproj|c:\\users\\administrator\\321_design_patterns_demo\\cpts321dpdemo\\cpts321dpdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF86F17B-8E10-44BB-961E-575D30D65803}|CPTS321DPDEMO\\CPTS321DPDEMO.csproj|solutionrelative:cpts321dpdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321PREDPDEMO\\Program.cs",
+              "RelativeDocumentMoniker": "CPTS321PREDPDEMO\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321PREDPDEMO\\Program.cs",
+              "RelativeToolTip": "CPTS321PREDPDEMO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:19:21.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321DPDEMO\\Payment.cs",
+              "RelativeDocumentMoniker": "CPTS321DPDEMO\\Payment.cs",
+              "ToolTip": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321DPDEMO\\Payment.cs",
+              "RelativeToolTip": "CPTS321DPDEMO\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:14:02.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321DPDEMO\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "CPTS321DPDEMO\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321DPDEMO\\CreditCardPayment.cs",
+              "RelativeToolTip": "CPTS321DPDEMO\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:13:54.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321DPDEMO\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "CPTS321DPDEMO\\PaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321DPDEMO\\PaymentProcessor.cs",
+              "RelativeToolTip": "CPTS321DPDEMO\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:13:32.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayPalPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321DPDEMO\\PayPalPayment.cs",
+              "RelativeDocumentMoniker": "CPTS321DPDEMO\\PayPalPayment.cs",
+              "ToolTip": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321DPDEMO\\PayPalPayment.cs",
+              "RelativeToolTip": "CPTS321DPDEMO\\PayPalPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:13:19.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321DPDEMO\\Program.cs",
+              "RelativeDocumentMoniker": "CPTS321DPDEMO\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\321_Design_Patterns_Demo\\CPTS321DPDEMO\\CPTS321DPDEMO\\Program.cs",
+              "RelativeToolTip": "CPTS321DPDEMO\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:12:55.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
